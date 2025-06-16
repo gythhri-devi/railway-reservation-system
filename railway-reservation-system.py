@@ -1,5 +1,3 @@
-''' GAYATHRI DEVI R'''
-
 #Modules & Connect
 import pickle as p
 import os

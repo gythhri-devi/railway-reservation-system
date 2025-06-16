@@ -8,7 +8,7 @@ mycursor=connect.cursor()
 
 #Functions
 def menu():
-    print(''' START:                               END:
+    print('''   START:                            END:
                 trivandrum                        chennai
                 chennai                           bangalore
                 bangalore                         bhopal
